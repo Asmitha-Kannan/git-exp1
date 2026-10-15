@@ -1,1 +1,2 @@
 Hello git
+Learning basic Git operations
