@@ -1,2 +1,3 @@
 Hello git
 Learning basic Git operations
+hello sync
